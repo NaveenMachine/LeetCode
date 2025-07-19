@@ -1,0 +1,24 @@
+
+The TWO POINTER algorithm involves traversing through an array with two pointers/
+to find pairs of numbers. If the numbers are sorted it results in a O(n)
+
+Questions to Ask:
+    - What does my input look like?
+    - Will the sum cause integer overflow?
+
+How to find better solutions:
+    - Find insights from simple solution or problem statement
+    - Ask for a hint
+    - Find algorithms based off of runtimes
+
+Typical O (N Log N) Algos:
+    - Sort and scan
+    - Scan through array and use binary search
+
+
+*** NOTES ***
+- If an array of numbers are already sorted look into using Binary Search. (nlogn)
+
+
+
+
