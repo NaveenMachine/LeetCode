@@ -1,3 +1,6 @@
+# Is Palindrome solution using TwoPointer
+# Runtime is O(n)
+
 class Solution(object):
     def isPalindrome(self, s):
         """
