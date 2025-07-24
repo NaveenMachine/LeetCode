@@ -1,3 +1,6 @@
+# Notes picture the numbers flowing in and out.
+# You bassically have one empty stack at all times
+
 class MyQueue(object):
 
     def __init__(self):
